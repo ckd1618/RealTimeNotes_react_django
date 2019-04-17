@@ -11,7 +11,7 @@ django-admin startapp notes
 //now open settings and add 'notes' to the installed apps array  
 python manage.py runserver  
 //create your models  
-python manage.py makemigrations
-python manage.py migrate
+python manage.py makemigrations  
+python manage.py migrate  
 
 
