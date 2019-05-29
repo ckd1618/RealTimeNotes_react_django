@@ -1,4 +1,5 @@
 # RealTimeNotes_react_django
+THIS IS AN EARLY EFFORT, THE FINISHED PRODUCT IS AT THIS REPO: https://github.com/ckd1618/notes
 A real time note taking app using websockets that uses react on the frontend and django on the backend
 
 Terminal commands used to create the app:
