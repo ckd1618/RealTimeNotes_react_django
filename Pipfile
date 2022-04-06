@@ -12,7 +12,7 @@ django-cors-headers = "*"
 channels = "*"
 channels-redis = "*"
 redis = "*"
-twisted = "==19.2.0"
+twisted = "==22.2.0"
 
 [requires]
 python_version = "3.7"
